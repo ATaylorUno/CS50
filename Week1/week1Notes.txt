@@ -1,0 +1,7 @@
+// WEEK 1
+
+#include <stdio.h> - is a header file - part of a library, can be open or closed source - code that somebody else wrote. 
+
+Manual pages, docs - manual.cs50.io, layman terms of popular functions
+
+Some functions contain return values - such as getting input/info from the user and returning it later in a different form or format - easy version get_string - CS50 only
